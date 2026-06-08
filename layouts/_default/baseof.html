@@ -6,7 +6,7 @@
     <title>{{ or .Title .Site.Title }}{{ if ne .Kind "home" }} | {{ .CurrentSection.Title }}{{ end }}</title>
     {{ $style := resources.Get "scss/style.scss" | toCSS | minify }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-    <link rel="icon" href="/robinzenart/static/logo.png">
+    <link rel="icon" href="/robinzenart/static/test.ico">
   </head>
   <body>
     {{ block "page" . }}{{ end }}
