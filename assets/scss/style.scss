@@ -38,19 +38,6 @@ ul, ol {
   justify-content: center;
 }
 
-ul li {
-  display: flex;
-}
-
-a {
-  text-decoration: none;
-  color: $paradise-pink;
-
-  &:hover {
-    color: $paradise-pink-light;
-  }
-}
-
 article {
   padding: 2rem 1rem;
   max-width: calc(44em + 2rem);
