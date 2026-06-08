@@ -1,5 +1,5 @@
 [build]
-  publish = "robinzenart/public"
+  publish = "public"
   command = "cd robinzenart && hugo --gc --themesDir ../.."
   
 [build.environment]
