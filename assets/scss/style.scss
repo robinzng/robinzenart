@@ -30,6 +30,12 @@ ul, ol {
   justify-content: center;
 }
 
-img:hover {
-  filter: saturate(200%);
+#menu_home {
+  height: 100px;
+  background-image: url(/robinzenart/static/logo.png);
+}
+
+#menu_home:hover {
+  height: 100px;
+  background-image: url(/robinzenart/static/logo_hover.png);
 }
