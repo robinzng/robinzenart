@@ -33,3 +33,7 @@ ul, ol {
 img {
   filter: grayscale(100%);
 }
+
+img:hover {
+  filter: grayscale(0%);
+}
