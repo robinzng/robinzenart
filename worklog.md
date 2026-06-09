@@ -12,3 +12,4 @@ Display:
 * Update tab images to be more in line with my style 
 * Add text to tab images for clarity 
 * Animate tab images 
+* Add footer with contact info 
