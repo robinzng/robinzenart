@@ -29,3 +29,7 @@ ul, ol {
   flex-wrap: wrap;
   justify-content: center;
 }
+
+img {
+  filter: grayscale(100%);
+}
