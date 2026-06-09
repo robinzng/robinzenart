@@ -29,15 +29,3 @@ ul, ol {
   flex-wrap: wrap;
   justify-content: center;
 }
-
-#menu_home {
-  height: 100px;
-  width: 100px;
-  background-image: url('/robinzenart/static/logo.png');
-}
-
-#menu_home:hover {
-  height: 100px;
-  width: 100px;
-  background-image: url('/robinzenart/static/logo_hover.png');
-}
