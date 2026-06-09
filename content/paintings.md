@@ -1,1 +1,0 @@
-# Some Paintings I've Done
