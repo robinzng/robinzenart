@@ -1,8 +1,6 @@
 # Things to work on: 
 
 Content: 
-* Take better photos of art 
-* Collect more photos of my art
 * Add a shop page (how?)
 * Write something better on the homepage  
 
@@ -11,6 +9,10 @@ Display:
 * Update tab images to be more in line with my style 
 * Add text to tab images for clarity 
 * Animate tab images
+
+Ongoing: 
+* Collect more photos of my art 
+* Take better photos of my art 
 
 Done: 
 * Make the website
