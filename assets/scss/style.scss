@@ -135,3 +135,24 @@ ul, ol {
     max-width: 100%;
   }
 }
+
+.column imgcaption {
+  display: none;
+  padding: 8px;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.5);
+  width: 100%;
+  box-sizing: border-box;
+  bottom: 3px;
+  color: #000000;
+  height: 30px;
+  font-size: small;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  border-radius: 0 0 14px 14px;
+}
+
+img:hover imgcaption {
+  display: block;
+}
