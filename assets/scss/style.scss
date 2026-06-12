@@ -56,10 +56,15 @@ ul, ol {
   margin: 0 auto;
   column-count: 3;
 }
-.animation-gallery {
+.video-gallery {
   max-width: 1200px;
   margin: 0 auto;
   column-count: 1;
+}
+.animation-gallery {
+  max-width: 1200px;
+  margin: 0 auto;
+  column-count: 2;
 }
 .gallery-item {
   break-inside: avoid;
