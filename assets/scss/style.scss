@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  margin-bottom: 5%;
+  margin-bottom: 10%;
   align-content: center;
 }
 
@@ -100,5 +100,37 @@ ul, ol {
 @media screen and (min-width: 501px) and (max-width: 700px) {
   .gallery {
     column-count: 2;
+  }
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px; 
+}
+
+.column {
+  flex: 33%;
+  max-width: 33%;
+  padding: 0 4px; 
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle; 
+  width: 100%; 
+}
+
+@media screen and (max-width: 800px) { 
+  .column {
+    flex: 50%; 
+    max-width: 50%; 
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
   }
 }
