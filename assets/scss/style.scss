@@ -60,9 +60,6 @@ ul, ol {
   max-width: 1200px;
   margin: 0 auto;
   column-count: 1;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
 }
 .gallery-item {
   break-inside: avoid;
