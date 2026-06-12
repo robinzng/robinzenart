@@ -51,7 +51,8 @@ ul, ol {
 .gallery {
   max-width: 1200px;
   margin: 0 auto;
-  column-count: 3;
+  display: flex;
+  flex-wrap: wrap;
 }
 .gallery-item {
   break-inside: avoid;
