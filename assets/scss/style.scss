@@ -60,6 +60,8 @@ ul, ol {
   max-width: 1200px;
   margin: 0 auto;
   column-count: 1;
+  display: flex;
+  flex-wrap: wrap;
 }
 .animation-gallery {
   max-width: 1200px;
