@@ -57,10 +57,11 @@ ul, ol {
 .gallery-item {
   break-inside: avoid;
   margin-bottom: 16px;
-}
-.gallery-item figure {
   width: 30%;
   margin: 2.5%;
+}
+.gallery-item figure {
+  margin: 0;
   position: relative;
 }
 .gallery-item figcaption {
