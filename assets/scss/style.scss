@@ -80,6 +80,7 @@ ul, ol {
 
 .gallery-item:hover figcaption {
   display: block;
+  column-span: all;
 }
 
 .gallery-item img {
