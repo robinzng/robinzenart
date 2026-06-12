@@ -19,5 +19,3 @@ Done:
 * Populate it 
 * Add a contact footer with socials 
 * Add text to tab images for clarity 
-
-
