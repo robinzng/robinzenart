@@ -57,9 +57,6 @@ ul, ol {
   break-inside: avoid;
   margin-bottom: 16px;
 }
-.gallery-item:hover {
-  column-span: all;
-}
 .gallery-item figure {
   margin: 0;
   position: relative;
@@ -74,7 +71,7 @@ ul, ol {
   bottom: 3px;
   color: #000000;
   height: 30px;
-  font-size: medium;
+  font-size: small;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
