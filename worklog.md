@@ -19,7 +19,7 @@
 * Post more 
 
 ### Website 
-* Update tab images to be more in line with my style 
+* Update tab images to be more in line with my style    
 * Animate tab images
 * Update website name? 
 * Add a shop page (how?)
